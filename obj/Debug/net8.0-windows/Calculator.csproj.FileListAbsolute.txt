@@ -14,3 +14,4 @@ C:\Users\Snergdafer\Documents\GitHub\Calculator\Calculator\obj\Debug\net8.0-wind
 C:\Users\Snergdafer\Documents\GitHub\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.pdb
 C:\Users\Snergdafer\Documents\GitHub\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.genruntimeconfig.cache
 C:\Users\Snergdafer\Documents\GitHub\Calculator\Calculator\obj\Debug\net8.0-windows\ref\Calculator.dll
+C:\Users\Snergdafer\Documents\GitHub\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.sourcelink.json
